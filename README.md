@@ -40,7 +40,7 @@ Buat folder lab7_php_dasar pada root directory web server (\xampp\htdocs)
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/Lab7_php_dasar/
 
-![gambar4](screenshot/gambar4.png)
+![index](screenshot/index.png)
 
 ## 4. PHP Dasar
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat
