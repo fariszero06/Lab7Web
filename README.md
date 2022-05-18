@@ -75,14 +75,14 @@ Menambahkan variable pada program.
 
 ```PHP
 <?php
-$nim = "312010076";
-$nama = 'Shobahus Solichin';
+$nim = "312010034";
+$nama = 'Faris Syahluthfi';
 echo "NIM : " . $nim . "<br>";
 echo "Nama : $nama";
 ?>
 ```
 
-![Foto](Foto/Foto6.png)
+![gambar5](screenshot/gambar5.png)
 
 ### Predefine Variable `$_GET`
 ## **Codingan** ##
@@ -94,9 +94,9 @@ echo 'Selamat Datang ' . $_GET['nama'];
 ```
 
 Untuk mengaksesnya gunakan URL:
-http://localhost/Lab7_php_dasar/Dasar.php?nama=Shobahus%20Solichin
+http://localhost/lab7_php_dasar/Lab7Web/latihan2.php?nama=Faris
 
-![Foto](Foto/Foto7.png)
+![gambar6](screenshot/gambar6.png)
 
 ## 5. Membuat Form Input
 ## **Codingannya** ##
