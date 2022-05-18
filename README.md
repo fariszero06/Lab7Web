@@ -133,7 +133,7 @@ echo "Gaji sebelum pajak = Rp. $gaji <br>";
 echo "Gaji yang dibawa pulang = Rp. $thp";
 ?>
 ```
-![gambar8](screenshot/gambar8.png)
+![gambar12](screenshot/gambar12.png)
 
 ### Kondisi IF
 ## **Codingannya** ##
@@ -150,7 +150,7 @@ echo "Selasa";
 ?>
 ```
 
-![gambar9](screenshot/gambar9.png)
+![gambar8](screenshot/gambar8.png)
 
 ### Perulangan for
 ## **Codingannya** ##
@@ -167,7 +167,7 @@ echo "Perulangan ke: " . $i . '<br />';
 ?>
 ```
 
-![gambar10](screenshot/gambar10.png)
+![gambar9](screenshot/gambar9.png)
 
 ### Perulangan while
 ## **Codingannya** ##
@@ -181,7 +181,7 @@ $i++;
 }
 ?>
 ```
-![Foto](Foto/Foto13.png)
+![gambar10](screenshot/gambar10.png)
 
 ### Perulangan dowwhile
 ## **Codingannya** ##
@@ -196,7 +196,7 @@ $i++;
 ?>
 ```
 
-![Foto](Foto/Foto14.png)
+![gambar11](screenshot/gambar11.png)
 
 ## Pertanyaan dan Tugas
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
