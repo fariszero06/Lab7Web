@@ -8,9 +8,11 @@
 ## Langkah langkah praktikum 7
 
 ## 1. Install XAMPP
-Unduh XAMPP dari https://www.apachefriends.org/download.html
+Unduh XAMPP dari https://www.apachefriends.org/download.html dan pilih versi
+portable untuk memudahkan proses installasi. Kemudian extract file tersebut, seusikan
+direktorinya (misal: d:\xampp).
 
-![Foto](Foto/Foto1.png)
+![gambar1](screenshot/gambar1.png)
 
 ## 2. Menjalankan web server
 Untuk menjalankan web server dari menu XAMPP Control
