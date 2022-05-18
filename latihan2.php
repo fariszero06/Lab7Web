@@ -6,6 +6,10 @@
 </head>
 <body>
 
+<?php
+echo 'Selamat Datang ' . $_GET['nama'];
+?>
+
 <h2>Form Input</h2>
 <form method="post">
 <label>Nama: </label>
@@ -49,7 +53,7 @@ echo "Perulangan ke: " . $i . '<br />';
 }
 ?>
 
-<h6>Perulangan while</h6>
+<h6>perulangan while</h6>
 <?php
 echo "Perulangan 1 sampai 10 <br />";
 $i=1;
@@ -57,16 +61,6 @@ while ($i<=10) {
 echo "Perulangan ke: " . $i . '<br />';
 $i++;
 }
-?>
-
-<h7>Perulangan dowhile</h7>
-<?php
-echo "Perulangan 1 sampai 10 <br />";
-$i=1;
-do {
-echo "Perulangan ke: " . $i . '<br />';
-$i++;
-} while ($i<=10);
 ?>
 
 </body>
