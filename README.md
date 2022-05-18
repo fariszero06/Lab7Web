@@ -63,7 +63,7 @@ echo "Hello World";
 </body>
 </html>
 ```
-![Foto](Foto/Foto5.png)
+![gambar4](screenshot/gambar4.png)
 
 Kemudian untuk mengakses hasilnya melalui URL:
 http://localhost/Lab7_php_dasar/dasar.php
