@@ -120,7 +120,7 @@ echo 'Selamat Datang ' . $_POST['nama'];
 </body>
 </html>
 ```
-![Foto](Foto/Foto8.png)
+![gambar7](screenshot/gambar7.png)
 
 ### Operator
 ## **Codingannya** ##
