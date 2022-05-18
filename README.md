@@ -35,12 +35,12 @@ Manajemen database: http://localhost/phpmyadmin
 ## 3. Memulai PHP
 Buat folder lab7_php_dasar pada root directory web server (\xampp\htdocs)
 
-![Foto](Foto/Foto2.png)
+![gambar3](screenshot/gambar3.png)
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/Lab7_php_dasar/
 
-![Foto](Foto/5.1.png)
+![gambar4](screenshot/gambar4.png)
 
 ## 4. PHP Dasar
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat
