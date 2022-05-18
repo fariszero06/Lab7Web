@@ -133,7 +133,7 @@ echo "Gaji sebelum pajak = Rp. $gaji <br>";
 echo "Gaji yang dibawa pulang = Rp. $thp";
 ?>
 ```
-![Foto](Foto/Foto9.png)
+![gambar8](screenshot/gambar8.png)
 
 ### Kondisi IF
 ## **Codingannya** ##
