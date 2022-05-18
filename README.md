@@ -149,32 +149,8 @@ echo "Selasa";
 }
 ?>
 ```
-![Foto](Foto/Foto10.png)
 
-### Kondisi Switch
-## **Codingannya** ##
-```PHP
-<h2>Kondisi Switch</h2>
-<?php
-    $nama_hari = date("l");
-    switch ($nama_hari) {
-        case "Sunday":
-            echo "Minggu";
-            break;
-        case "Monday":
-            echo "Senin";
-            break;
-        case "Tuesday":
-            echo "Selasa";
-            break;
-        default:
-            echo "Sabtu";
-    }
-    echo"/$nama_hari";
-?>
-```
-
-![Foto](Foto/Foto11.png)
+![gambar9](screenshot/gambar9.png)
 
 ### Perulangan for
 ## **Codingannya** ##
@@ -191,7 +167,7 @@ echo "Perulangan ke: " . $i . '<br />';
 ?>
 ```
 
-![Foto](Foto/Foto12.png)
+![gambar10](screenshot/gambar10.png)
 
 ### Perulangan while
 ## **Codingannya** ##
