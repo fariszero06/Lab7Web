@@ -17,7 +17,7 @@ direktorinya (misal: d:\xampp).
 ## 2. Menjalankan web server
 Untuk menjalankan web server dari menu XAMPP Control
 
-![Foto](Foto/Foto3.png)
+![gambar2](screenshot/gambar2.png)
 
 • Uji coba apakah server sudah berkerja dengan baik
 http://127.0.0.1 atau http://localhost
